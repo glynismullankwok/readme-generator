@@ -12,4 +12,5 @@ design put into this project.
 
 ## demo
 
+![readme gen](https://user-images.githubusercontent.com/70453836/115095626-ef0e5b80-9eef-11eb-9194-73d1f748a110.gif)
 
